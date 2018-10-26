@@ -117,7 +117,7 @@ class Contact extends React.Component {
 
 const Thanks = () => (
   <div className="text-centered">
-  <p className="p-type">Thank you for the message, I will reply as soon as possible</p>
+  <p className="p-type">Thank you for the message, I will reply as soon as possible.</p>
   </div>
 );
 
