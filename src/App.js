@@ -65,7 +65,7 @@ const Gallary = () => (
   <div className=" text-center ">
     <h2 className="section-title">“Gallary„</h2>
     <p className="p-type">This page is under heavy maintenance <i className="fas fa-wrench"></i></p>
-    <p className="p-type">In the maen time, check my <a href="https://www.behance.net/mrosamah" target="_blank" rel="noopener noreferrer"><i className="fab fa-behance"></i>hance</a> profile.</p>
+    <p className="p-type">In the meantime, check my <a href="https://www.behance.net/mrosamah" target="_blank" rel="noopener noreferrer"><i className="fab fa-behance"></i>hance</a> profile.</p>
     <p className="p-type">And also check my <a href="https://github.com/MrOsamah" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i> Github</a></p>
   </div>
 );
